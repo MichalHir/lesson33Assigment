@@ -1,4 +1,9 @@
 # lesson33Assigment
+https://github.com/MichalHir/lesson33Assigment_library
+
+https://github.com/MichalHir/lesson33_class
+https://github.com/ranerlich7/oop
+
 1 Library models:
 book model.
     Attributes: Name, author, user
